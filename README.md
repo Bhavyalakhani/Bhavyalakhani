@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavyalakhani" alt="Bhavya Lakhani" /> </p>
 <p>
-I am a full stack Web Developer, Data Analyst and a Machine Learning enthusiast
+I am a full stack Web/App Developer, Data Analyst and a Machine Learning enthusiast
 I am open to make new connections and if you want to work on some project together or have a conversation with me or get to know me, then please connect with me out on Linkedin or my social media.
 
 
 ### I'm a student 
 - 🔭 I’m currently working on buliding my tech skills
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on web dev and ML Projects
+- 👯 I’m looking to collaborate on web/app dev and ML Projects
 
 
 ### Connect With Me:
