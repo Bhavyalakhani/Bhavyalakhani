@@ -17,7 +17,7 @@ I am open to make new connections and if you want to work on some project togeth
 <a href="mailto:bhavyalakhani89@gmail.com@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/bhavya-lakhani-447ba9190/" target="_blank">
+<a href="https://www.linkedin.com/in/bhavyalakhani/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/bhavyalakhani/" target="_blank">
