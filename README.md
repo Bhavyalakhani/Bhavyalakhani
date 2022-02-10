@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavyalakhani" alt="Bhavya Lakhani" /> </p>
 <p>
-I am a full stack Web/App Developer, Data Analyst and a Machine Learning enthusiast
+I am a full stack Web/App Developer, Data Analyst and a Machine Learning enthusiast.
 I am open to make new connections and if you want to work on some project together or have a conversation with me or get to know me, then please connect with me out on Linkedin or my social media.
 
 
